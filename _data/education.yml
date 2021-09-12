@@ -1,6 +1,14 @@
 # Degree
+
 - degree: Master  
   uni: Carneige Mellon University
   year: May 2022
   # awards:
   # summary: Degree
+
+- degree: Bachelor
+  uni: Lafayette College
+  year: September, 2017 &mdash; June, 2021
+  awards: 
+  summary: Bachelor degree
+
